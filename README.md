@@ -1,5 +1,4 @@
 # 💫About Me :
-👋 About Me
 🧑‍💻 I'm Mohsin Khan
 
 I’m an Agentic AI Developer passionate about building intelligent, autonomous systems powered by Large Language Models (LLMs). My focus is on creating real-world AI agents that can think, reason, and collaborate like humans using Python, LangChain, FastAPI, and OpenAI APIs.
